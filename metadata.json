@@ -1,0 +1,8 @@
+{
+  "name": "Pahadi TechHub Computer Guide",
+  "description": "A simple guide to understanding how computers work, explained in the warm, familiar style of the Pahadi language.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
